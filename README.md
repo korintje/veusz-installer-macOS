@@ -1,5 +1,5 @@
 # veusz-installer-macOS
-Script to download &amp; install latest Veusz app on macOS
+Script to download &amp; install latest [Veusz](https://github.com/veusz/veusz) app on macOS
 
 # Usage
 1. Download [veusz-installer-macOS.command](https://github.com/korintje/veusz-installer-macOS/releases/download/v0.0.1/veusz-installer-macOS.command)
